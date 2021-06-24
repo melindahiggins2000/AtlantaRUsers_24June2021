@@ -11,24 +11,24 @@
 
 #### Slides Presented:
 
-* PPT format 
-* PDF format 
+* HTML link
+* RMD file 
 
-#### Rmarkdown files presented:
+#### `Packages` and Resources:
 
-* Report formats:
-  
-* Slide formats:
-  
+* `ggplot2`
+    - CRAN, [https://cran.r-project.org/web/packages/ggplot2/index.html](https://cran.r-project.org/web/packages/ggplot2/index.html)
+* `patchwork`
+    - CRAN, [https://cran.r-project.org/web/packages/patchwork/](https://cran.r-project.org/web/packages/patchwork/)
+    - [https://patchwork.data-imaginist.com/](https://patchwork.data-imaginist.com/)
+    - fun R-Bloggers post [https://www.r-bloggers.com/2020/03/patchwork-r-package-goes-nerd-viral/](https://www.r-bloggers.com/2020/03/patchwork-r-package-goes-nerd-viral/)
+* `palmerpenguins`
+    - CRAN, [https://cran.r-project.org/web/packages/palmerpenguins/](https://cran.r-project.org/web/packages/palmerpenguins/)
+* R Graphics Cookbook:
+    - [https://r-graphics.org/](https://r-graphics.org/)
+    - [http://www.cookbook-r.com/Graphs/](http://www.cookbook-r.com/Graphs/)
+* R-Gallery
+    - [https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
 
-#### More resources - see:
+* Illustrations by Allison Horst, RStudio Artist in Residence, <https://github.com/allisonhorst/stats-illustrations>
 
-* Rmarkdown [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/) - review all of the materials here for a great start!
-  - [Rmarkdown Formats](https://rmarkdown.rstudio.com/formats.html)
-  - [Rmarkdown Gallery](https://rmarkdown.rstudio.com/gallery.html)
-* Bookdown.org [https://bookdown.org/](https://bookdown.org/)
-  - [https://bookdown.org/yihui/rmarkdown-cookbook/](https://bookdown.org/yihui/rmarkdown-cookbook/)
-  - [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
-  - [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
-  - [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
-* `tinytex` package for making PDFs [https://yihui.org/tinytex/](https://yihui.org/tinytex/)
