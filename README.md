@@ -11,8 +11,10 @@
 
 #### Slides Presented:
 
-* HTML link
-* RMD file 
+* [HTML slides](https://melindahiggins2000.github.io/AtlantaRUsers_24June2021/MHiggins_IntroToPatchwork.v2.html#1)
+* [RMD file](https://github.com/melindahiggins2000/AtlantaRUsers_24June2021/blob/main/MHiggins_IntroToPatchwork.v2.Rmd)
+
+_NOTE: Slides made using the `xaringan` package [https://cran.r-project.org/web/packages/xaringan/](https://cran.r-project.org/web/packages/xaringan/ and see slides demo at [https://slides.yihui.org/xaringan/#1](https://slides.yihui.org/xaringan/#1))_
 
 #### `Packages` and Resources:
 
