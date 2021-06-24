@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+##### _
 
-You can use the [editor on GitHub](https://github.com/melindahiggins2000/AtlantaRUsers_24June2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Presentation for 24 June 2021 Meeting of Atlanta R-Users
 
-### Markdown
+[Melinda Higgins'](https://melindahiggins.netlify.app/) presentation to the June 24, 2021 Meeting of the Atlanta R-Users Group.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Website Link for this Github Repository
 
-```markdown
-Syntax highlighted code block
+* [https://melindahiggins2000.github.io/AtlantaRUsers_24June2021/](https://melindahiggins2000.github.io/AtlantaRUsers_24June2021/)
 
-# Header 1
-## Header 2
-### Header 3
+#### Slides Presented:
 
-- Bulleted
-- List
+* PPT format 
+* PDF format 
 
-1. Numbered
-2. List
+#### Rmarkdown files presented:
 
-**Bold** and _Italic_ and `Code` text
+* Report formats:
+  
+* Slide formats:
+  
 
-[Link](url) and ![Image](src)
-```
+#### More resources - see:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melindahiggins2000/AtlantaRUsers_24June2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Rmarkdown [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/) - review all of the materials here for a great start!
+  - [Rmarkdown Formats](https://rmarkdown.rstudio.com/formats.html)
+  - [Rmarkdown Gallery](https://rmarkdown.rstudio.com/gallery.html)
+* Bookdown.org [https://bookdown.org/](https://bookdown.org/)
+  - [https://bookdown.org/yihui/rmarkdown-cookbook/](https://bookdown.org/yihui/rmarkdown-cookbook/)
+  - [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
+  - [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+  - [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
+* `tinytex` package for making PDFs [https://yihui.org/tinytex/](https://yihui.org/tinytex/)
